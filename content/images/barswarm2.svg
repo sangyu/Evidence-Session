@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3958 1862" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <g id="figure_1">
+            <rect id="patch_1" x="0" y="0" width="949.71" height="446.811" style="fill:none;"/>
+            <g id="axes_1">
+                <rect id="patch_2" x="40.71" y="16.2" width="405.818" height="380.52" style="fill:none;"/>
+                <g id="matplotlib.axis_1">
+                    <g id="xtick_1">
+                        <g id="m0c65cc7433" transform="matrix(1,0,0,1,91.4372,406.72)">
+                            <path d="M0,0L0,9" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_1" transform="matrix(1,0,0,1,91.4372,434.764)">
+                            <text x="-5.93px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">A</text>
+                        </g>
+                    </g>
+                    <g id="xtick_2">
+                        <g id="m0c65cc74331" serif:id="m0c65cc7433" transform="matrix(1,0,0,1,192.892,406.72)">
+                            <path d="M0,0L0,9" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_2" transform="matrix(1,0,0,1,192.892,434.764)">
+                            <text x="-6.414px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">B</text>
+                        </g>
+                    </g>
+                    <g id="xtick_3">
+                        <g id="m0c65cc74332" serif:id="m0c65cc7433" transform="matrix(1,0,0,1,294.346,406.72)">
+                            <path d="M0,0L0,9" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_3" transform="matrix(1,0,0,1,294.346,434.764)">
+                            <text x="-6.322px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">C</text>
+                        </g>
+                    </g>
+                    <g id="xtick_4">
+                        <g id="m0c65cc74333" serif:id="m0c65cc7433" transform="matrix(1,0,0,1,395.801,406.72)">
+                            <path d="M0,0L0,9" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_4" transform="matrix(1,0,0,1,395.801,434.764)">
+                            <text x="-6.817px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">D</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="matplotlib.axis_2">
+                    <g id="ytick_1">
+                        <g id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,396.72)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_5" transform="matrix(1,0,0,1,26.71,403.742)">
+                            <text x="-12.251px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">0</text>
+                        </g>
+                    </g>
+                    <g id="ytick_2">
+                        <g id="me0b4c78b941" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,354.44)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_6" transform="matrix(1,0,0,1,26.71,361.462)">
+                            <text x="-11.962px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">2</text>
+                        </g>
+                    </g>
+                    <g id="ytick_3">
+                        <g id="me0b4c78b942" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,312.16)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_7" transform="matrix(1,0,0,1,26.71,319.182)">
+                            <text x="-11.529px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">4</text>
+                        </g>
+                    </g>
+                    <g id="ytick_4">
+                        <g id="me0b4c78b943" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,269.88)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_8" transform="matrix(1,0,0,1,26.71,276.902)">
+                            <text x="-11.818px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">6</text>
+                        </g>
+                    </g>
+                    <g id="ytick_5">
+                        <g id="me0b4c78b944" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,227.6)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_9" transform="matrix(1,0,0,1,26.71,234.622)">
+                            <text x="-12.684px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">8</text>
+                        </g>
+                    </g>
+                    <g id="ytick_6">
+                        <g id="me0b4c78b945" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,185.32)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_10" transform="matrix(1,0,0,1,26.71,192.342)">
+                            <text x="-19.078px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">10</text>
+                        </g>
+                    </g>
+                    <g id="ytick_7">
+                        <g id="me0b4c78b946" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,143.04)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_11" transform="matrix(1,0,0,1,26.71,150.062)">
+                            <text x="-18.789px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">12</text>
+                        </g>
+                    </g>
+                    <g id="ytick_8">
+                        <g id="me0b4c78b947" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,100.76)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_12" transform="matrix(1,0,0,1,26.71,107.782)">
+                            <text x="-18.356px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">14</text>
+                        </g>
+                    </g>
+                    <g id="ytick_9">
+                        <g id="me0b4c78b948" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,58.48)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_13" transform="matrix(1,0,0,1,26.71,65.5022)">
+                            <text x="-18.645px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">16</text>
+                        </g>
+                    </g>
+                    <g id="ytick_10">
+                        <g id="me0b4c78b949" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,40.71,16.2)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_14" transform="matrix(1,0,0,1,26.71,23.2222)">
+                            <text x="-19.511px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">18</text>
+                        </g>
+                    </g>
+                </g>
+                <rect id="patch_3" x="50.855" y="185.32" width="81.164" height="211.4" style="fill:rgb(232,163,108);fill-rule:nonzero;"/>
+                <rect id="patch_4" x="152.31" y="185.32" width="81.164" height="211.4" style="fill:rgb(232,163,108);fill-rule:nonzero;"/>
+                <rect id="patch_5" x="253.765" y="185.32" width="81.164" height="211.4" style="fill:rgb(232,163,108);fill-rule:nonzero;"/>
+                <rect id="patch_6" x="355.219" y="185.32" width="81.164" height="211.4" style="fill:rgb(232,163,108);fill-rule:nonzero;"/>
+                <path id="line2d_15" d="M91.437,238.17L91.437,132.47" style="fill:none;stroke:rgb(217,217,217);stroke-width:4.05px;stroke-linecap:round;"/>
+                <path id="line2d_16" d="M192.892,238.17L192.892,132.47" style="fill:none;stroke:rgb(217,217,217);stroke-width:4.05px;stroke-linecap:round;"/>
+                <path id="line2d_17" d="M294.346,238.17L294.346,132.47" style="fill:none;stroke:rgb(217,217,217);stroke-width:4.05px;stroke-linecap:round;"/>
+                <path id="line2d_18" d="M395.801,238.17L395.801,132.47" style="fill:none;stroke:rgb(217,217,217);stroke-width:4.05px;stroke-linecap:round;"/>
+                <path id="patch_7" d="M40.71,396.72L40.71,16.2" style="fill:none;stroke:white;stroke-width:1.88px;stroke-linecap:square;"/>
+                <path id="patch_8" d="M91.437,406.72L395.801,406.72" style="fill:none;stroke:white;stroke-width:1.88px;stroke-linecap:square;"/>
+            </g>
+            <g id="axes_2">
+                <rect id="patch_9" x="527.692" y="16.2" width="405.818" height="380.52" style="fill:none;"/>
+                <g id="matplotlib.axis_3">
+                    <g id="xtick_5">
+                        <g id="m0c65cc74334" serif:id="m0c65cc7433" transform="matrix(1,0,0,1,578.419,406.72)">
+                            <path d="M0,0L0,9" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_15" transform="matrix(1,0,0,1,578.419,434.764)">
+                            <text x="-5.93px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">A</text>
+                        </g>
+                    </g>
+                    <g id="xtick_6">
+                        <g id="m0c65cc74335" serif:id="m0c65cc7433" transform="matrix(1,0,0,1,679.874,406.72)">
+                            <path d="M0,0L0,9" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_16" transform="matrix(1,0,0,1,679.874,434.764)">
+                            <text x="-6.414px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">B</text>
+                        </g>
+                    </g>
+                    <g id="xtick_7">
+                        <g id="m0c65cc74336" serif:id="m0c65cc7433" transform="matrix(1,0,0,1,781.328,406.72)">
+                            <path d="M0,0L0,9" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_17" transform="matrix(1,0,0,1,781.328,434.764)">
+                            <text x="-6.322px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">C</text>
+                        </g>
+                    </g>
+                    <g id="xtick_8">
+                        <g id="m0c65cc74337" serif:id="m0c65cc7433" transform="matrix(1,0,0,1,882.783,406.72)">
+                            <path d="M0,0L0,9" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_18" transform="matrix(1,0,0,1,882.783,434.764)">
+                            <text x="-6.817px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">D</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="matplotlib.axis_4">
+                    <g id="ytick_11">
+                        <g id="me0b4c78b9410" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,396.72)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_19" transform="matrix(1,0,0,1,513.692,403.742)">
+                            <text x="-12.251px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">0</text>
+                        </g>
+                    </g>
+                    <g id="ytick_12">
+                        <g id="me0b4c78b9411" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,354.44)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_20" transform="matrix(1,0,0,1,513.692,361.462)">
+                            <text x="-11.962px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">2</text>
+                        </g>
+                    </g>
+                    <g id="ytick_13">
+                        <g id="me0b4c78b9412" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,312.16)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_21" transform="matrix(1,0,0,1,513.692,319.182)">
+                            <text x="-11.529px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">4</text>
+                        </g>
+                    </g>
+                    <g id="ytick_14">
+                        <g id="me0b4c78b9413" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,269.88)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_22" transform="matrix(1,0,0,1,513.692,276.902)">
+                            <text x="-11.818px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">6</text>
+                        </g>
+                    </g>
+                    <g id="ytick_15">
+                        <g id="me0b4c78b9414" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,227.6)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_23" transform="matrix(1,0,0,1,513.692,234.622)">
+                            <text x="-12.684px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">8</text>
+                        </g>
+                    </g>
+                    <g id="ytick_16">
+                        <g id="me0b4c78b9415" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,185.32)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_24" transform="matrix(1,0,0,1,513.692,192.342)">
+                            <text x="-19.078px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">10</text>
+                        </g>
+                    </g>
+                    <g id="ytick_17">
+                        <g id="me0b4c78b9416" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,143.04)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_25" transform="matrix(1,0,0,1,513.692,150.062)">
+                            <text x="-18.789px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">12</text>
+                        </g>
+                    </g>
+                    <g id="ytick_18">
+                        <g id="me0b4c78b9417" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,100.76)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_26" transform="matrix(1,0,0,1,513.692,107.782)">
+                            <text x="-18.356px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">14</text>
+                        </g>
+                    </g>
+                    <g id="ytick_19">
+                        <g id="me0b4c78b9418" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,58.48)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_27" transform="matrix(1,0,0,1,513.692,65.5022)">
+                            <text x="-18.645px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">16</text>
+                        </g>
+                    </g>
+                    <g id="ytick_20">
+                        <g id="me0b4c78b9419" serif:id="me0b4c78b94" transform="matrix(1,0,0,1,527.692,16.2)">
+                            <path d="M0,0L-9,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.88px;"/>
+                        </g>
+                        <g id="text_28" transform="matrix(1,0,0,1,513.692,23.2222)">
+                            <text x="-19.511px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.625px;fill:white;">18</text>
+                        </g>
+                    </g>
+                </g>
+                <path id="patch_10" d="M527.692,396.72L527.692,16.2" style="fill:none;stroke:white;stroke-width:1.88px;stroke-linecap:square;"/>
+                <path id="patch_11" d="M578.419,406.72L882.783,406.72" style="fill:none;stroke:white;stroke-width:1.88px;stroke-linecap:square;"/>
+                <g id="PathCollection_1">
+                    <g id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,293.557)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6411" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,247.245)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6412" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,571.466,244.976)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6413" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,225.292)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6414" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,206.678)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6415" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,198.172)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6416" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,571.721,195.29)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6417" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,584.899,194.868)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6418" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,182.535)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e6419" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,164.393)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e64110" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,149.497)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e64111" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,134.534)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e64112" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,576.155,127.875)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e64113" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,583.007,125.342)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_c857c4e64114" serif:id="C0_0_c857c4e641" transform="matrix(1,0,0,1,578.419,89.5449)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="PathCollection_2">
+                    <g id="C1_0_ba1109b555" transform="matrix(1,0,0,1,679.874,252.413)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5551" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,672.524,252.413)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5552" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,687.224,252.413)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5553" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,679.874,199.445)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5554" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,672.524,199.445)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5555" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,687.224,199.445)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5556" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,665.174,199.445)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5557" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,694.574,199.445)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5558" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,657.824,199.445)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b5559" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,701.924,199.445)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b55510" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,650.474,199.445)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b55511" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,679.874,146.477)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b55512" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,679.874,93.5091)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b55513" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,672.524,93.5091)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_ba1109b55514" serif:id="C1_0_ba1109b555" transform="matrix(1,0,0,1,687.224,93.5091)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="PathCollection_3">
+                    <g id="C2_0_e13665f67b" transform="matrix(1,0,0,1,781.328,285.012)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b1" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,781.328,206.966)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b2" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,778.264,200.603)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b3" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,785.408,198.96)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b4" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,771.352,198.222)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b5" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,792.537,197.253)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b6" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,764.149,196.831)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b7" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,799.45,194.876)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b8" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,757.318,194.247)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b9" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,806.764,194.186)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b10" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,749.969,194.184)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b11" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,814.113,194.065)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b12" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,781.328,182.494)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b13" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,781.328,115.978)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_e13665f67b14" serif:id="C2_0_e13665f67b" transform="matrix(1,0,0,1,781.328,25.9213)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="PathCollection_4">
+                    <g id="C3_0_8200726399" transform="matrix(1,0,0,1,882.783,234.757)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263991" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,875.433,234.757)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263992" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,890.133,234.757)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263993" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,868.083,234.757)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263994" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,897.483,234.757)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263995" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,860.733,234.757)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263996" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,904.833,234.757)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263997" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,853.383,234.757)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263998" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,882.783,128.821)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_82007263999" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,875.433,128.821)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_820072639910" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,890.133,128.821)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_820072639911" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,868.083,128.821)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_820072639912" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,897.483,128.821)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_820072639913" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,860.733,128.821)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_820072639914" serif:id="C3_0_8200726399" transform="matrix(1,0,0,1,904.833,128.821)">
+                        <path d="M0,3.5C0.928,3.5 1.819,3.131 2.475,2.475C3.131,1.819 3.5,0.928 3.5,0C3.5,-0.928 3.131,-1.819 2.475,-2.475C1.819,-3.131 0.928,-3.5 0,-3.5C-0.928,-3.5 -1.819,-3.131 -2.475,-2.475C-3.131,-1.819 -3.5,-0.928 -3.5,0C-3.5,0.928 -3.131,1.819 -2.475,2.475C-1.819,3.131 -0.928,3.5 0,3.5Z" style="fill:rgb(253,160,87);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
