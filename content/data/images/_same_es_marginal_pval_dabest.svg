@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1173 1173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(2,0,0,2,0,0)">
+        <g id="Artboard1" transform="matrix(1,0,0,1,97.5682,86.7619)">
+            <rect x="-97.568" y="-86.762" width="586.169" height="586.169" style="fill:none;"/>
+            <g id="axes_1" transform="matrix(0.9,0,0,0.9,-92.3451,-80.0513)">
+                <g id="matplotlib.axis_1">
+                    <g id="xtick_1">
+                        <g id="m4480f66a91" transform="matrix(1,0,0,1,144.243,249.548)">
+                            <path d="M0,0L0,6" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_1">
+                            <g transform="matrix(1,0,0,1,103.037,271.781)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">placebo A</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,120.308,291.456)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">N = 12</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="xtick_2">
+                        <g id="m4480f66a911" serif:id="m4480f66a91" transform="matrix(1,0,0,1,283.743,249.548)">
+                            <path d="M0,0L0,6" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_2">
+                            <g transform="matrix(1,0,0,1,256.077,271.986)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">drug A</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,259.808,291.865)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">N = 12</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="xtick_3">
+                        <g id="m4480f66a912" serif:id="m4480f66a91" transform="matrix(1,0,0,1,423.243,249.548)">
+                            <path d="M0,0L0,6" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_3">
+                            <g transform="matrix(1,0,0,1,381.597,271.781)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">placebo B</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,399.504,291.456)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">N = 14</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="xtick_4">
+                        <g id="m4480f66a913" serif:id="m4480f66a91" transform="matrix(1,0,0,1,562.743,249.548)">
+                            <path d="M0,0L0,6" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_4">
+                            <g transform="matrix(1,0,0,1,534.637,271.986)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">drug B</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,539.004,291.865)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">N = 14</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="matplotlib.axis_2">
+                    <g id="ytick_1">
+                        <g id="mc801d3a513" transform="matrix(1,0,0,1,74.4925,241.213)">
+                            <path d="M0,0L-6,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_5" transform="matrix(1,0,0,1,64.9925,247.58)">
+                            <text x="-11.108px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">0</text>
+                        </g>
+                    </g>
+                    <g id="ytick_2">
+                        <g id="mc801d3a5131" serif:id="mc801d3a513" transform="matrix(1,0,0,1,74.4925,171.85)">
+                            <path d="M0,0L-6,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_6" transform="matrix(1,0,0,1,64.9925,178.217)">
+                            <text x="-6.19px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">1</text>
+                        </g>
+                    </g>
+                    <g id="ytick_3">
+                        <g id="mc801d3a5132" serif:id="mc801d3a513" transform="matrix(1,0,0,1,74.4925,102.487)">
+                            <path d="M0,0L-6,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_7" transform="matrix(1,0,0,1,64.9925,108.854)">
+                            <text x="-10.846px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">2</text>
+                        </g>
+                    </g>
+                    <g id="ytick_4">
+                        <g id="mc801d3a5133" serif:id="mc801d3a513" transform="matrix(1,0,0,1,74.4925,33.1243)">
+                            <path d="M0,0L-6,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_8" transform="matrix(1,0,0,1,64.9925,39.4911)">
+                            <text x="-11.052px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">3</text>
+                        </g>
+                    </g>
+                    <g id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,241.213)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e1" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,206.532)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e2" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,171.85)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e3" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,137.169)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e4" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,102.487)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e5" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,67.8058)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e6" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,33.1243)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="text_9" transform="matrix(-3.82857e-16,-1,1,-3.82857e-16,45.0895,131.374)">
+                        <text x="-85.7px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.4px;fill:white;">Response Time (s)</text>
+                    </g>
+                </g>
+                <g id="PathCollection_1">
+                    <g id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,144.243,212.431)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd631" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,144.243,168.446)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd632" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,144.243,162.166)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd633" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,139.702,158.007)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd634" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,144.243,147.127)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd635" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,138.099,145.797)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd636" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,144.243,115.406)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd637" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,144.243,108.32)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd638" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,144.243,99.8936)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd639" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,138.21,98.1625)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd6310" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,150.092,97.6651)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C0_0_9e13a7fd6311" serif:id="C0_0_9e13a7fd63" transform="matrix(1,0,0,1,144.243,49.3676)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(181,201,212);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="PathCollection_2">
+                    <g id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,283.743,235.497)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc1" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,282.481,229.618)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc2" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,283.743,197.111)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc3" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,279.865,192.383)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc4" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,283.743,172.54)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc5" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,277.444,172.419)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc6" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,283.743,163.778)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc7" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,283.743,148.728)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc8" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,283.743,124.732)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc9" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,279.007,120.775)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc10" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,283.743,112.191)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C1_0_67e83d16cc11" serif:id="C1_0_67e83d16cc" transform="matrix(1,0,0,1,278.283,109.197)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(68,113,143);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="PathCollection_3">
+                    <g id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,205.893)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c1" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,167.208)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c2" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,160.07)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c3" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,417.977,156.776)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c4" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,150.062)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c5" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,417.139,148.576)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c6" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,426.868,145.154)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c7" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,128.828)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c8" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,419.563,123.957)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c9" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,115.465)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c10" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,108.456)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c11" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,417.911,105.259)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c12" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,81.7137)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C2_0_b99c18613c13" serif:id="C2_0_b99c18613c" transform="matrix(1,0,0,1,423.243,25.8372)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(179,202,159);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="PathCollection_4">
+                    <g id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,236.661)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df1" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,226.737)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df2" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,200.812)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df3" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,193.171)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df4" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,560.353,187.619)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df5" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,175.218)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df6" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,153.336)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df7" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,556.503,152.51)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df8" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,568.942,152.271)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df9" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,551.914,148.398)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df10" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,561.378,147.479)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df11" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,139.373)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df12" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,127.871)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                    <g id="C3_0_4cf79881df13" serif:id="C3_0_4cf79881df" transform="matrix(1,0,0,1,562.743,67.3387)">
+                        <path d="M0,3C0.796,3 1.559,2.684 2.121,2.121C2.684,1.559 3,0.796 3,0C3,-0.796 2.684,-1.559 2.121,-2.121C1.559,-2.684 0.796,-3 0,-3C-0.796,-3 -1.559,-2.684 -2.121,-2.121C-2.684,-1.559 -3,-0.796 -3,0C-3,0.796 -2.684,1.559 -2.121,2.121C-1.559,2.684 -0.796,3 0,3Z" style="fill:rgb(77,131,73);fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <path id="line2d_16" d="M177.992,173.701L177.992,133.778" style="fill:none;stroke:rgb(181,201,212);stroke-width:2px;stroke-linecap:round;"/>
+                <path id="line2d_17" d="M177.992,126.687L177.992,86.764" style="fill:none;stroke:rgb(181,201,212);stroke-width:2px;stroke-linecap:round;"/>
+                <path id="line2d_18" d="M311.643,208.382L311.643,168.459" style="fill:none;stroke:rgb(68,113,143);stroke-width:2px;stroke-linecap:round;"/>
+                <path id="line2d_19" d="M311.643,161.369L311.643,121.446" style="fill:none;stroke:rgb(68,113,143);stroke-width:2px;stroke-linecap:round;"/>
+                <path id="line2d_20" d="M454.768,173.421L454.768,133.778" style="fill:none;stroke:rgb(179,202,159);stroke-width:2px;stroke-linecap:round;"/>
+                <path id="line2d_21" d="M454.768,126.687L454.768,87.044" style="fill:none;stroke:rgb(179,202,159);stroke-width:2px;stroke-linecap:round;"/>
+                <path id="line2d_22" d="M596.842,208.103L596.842,168.459" style="fill:none;stroke:rgb(77,131,73);stroke-width:2px;stroke-linecap:round;"/>
+                <path id="line2d_23" d="M596.842,161.369L596.842,121.725" style="fill:none;stroke:rgb(77,131,73);stroke-width:2px;stroke-linecap:round;"/>
+                <g id="m47b8aebe9c" transform="matrix(1,0,0,1,0,630.387)">
+                    <path d="M144.243,-380.839L283.743,-380.839" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                </g>
+                <g id="m1373e4cdec" transform="matrix(1,0,0,1,0,630.387)">
+                    <path d="M423.243,-380.839L562.743,-380.839" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                </g>
+                <g id="m42cc487e01" transform="matrix(1,0,0,1,0,630.387)">
+                    <path d="M74.493,-380.839L74.493,-617.187" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                </g>
+            </g>
+            <g id="axes_2" transform="matrix(0.9,0,0,0.9,-92.3451,-80.0513)">
+                <g id="matplotlib.axis_3">
+                    <g id="m4480f66a914" serif:id="m4480f66a91" transform="matrix(1,0,0,1,144.243,556.8)">
+                        <path d="M0,0L0,6" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                    </g>
+                    <g id="xtick_6">
+                        <g id="m4480f66a915" serif:id="m4480f66a91" transform="matrix(1,0,0,1,283.743,556.8)">
+                            <path d="M0,0L0,6" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_10">
+                            <g transform="matrix(1,0,0,1,256.077,579.238)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">drug A</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,255.983,599.117)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">minus</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,242.537,618.792)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">placebo A</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="m4480f66a916" serif:id="m4480f66a91" transform="matrix(1,0,0,1,423.243,556.8)">
+                        <path d="M0,0L0,6" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                    </g>
+                    <g id="xtick_8">
+                        <g id="m4480f66a917" serif:id="m4480f66a91" transform="matrix(1,0,0,1,562.743,556.8)">
+                            <path d="M0,0L0,6" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_11">
+                            <g transform="matrix(1,0,0,1,534.637,579.238)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">drug B</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,534.983,599.117)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">minus</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,521.097,618.792)">
+                                <text x="0px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">placebo B</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="matplotlib.axis_4">
+                    <g id="ytick_12">
+                        <g id="mc801d3a5134" serif:id="mc801d3a513" transform="matrix(1,0,0,1,74.4925,554.46)">
+                            <path d="M0,0L-6,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_12" transform="matrix(1,0,0,1,64.9925,560.827)">
+                            <text x="-29.228px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">−1.5</text>
+                        </g>
+                    </g>
+                    <g id="ytick_13">
+                        <g id="mc801d3a5135" serif:id="mc801d3a513" transform="matrix(1,0,0,1,74.4925,494.368)">
+                            <path d="M0,0L-6,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_13" transform="matrix(1,0,0,1,64.9925,500.735)">
+                            <text x="-29.77px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">−1.0</text>
+                        </g>
+                    </g>
+                    <g id="ytick_14">
+                        <g id="mc801d3a5136" serif:id="mc801d3a513" transform="matrix(1,0,0,1,74.4925,434.277)">
+                            <path d="M0,0L-6,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_14" transform="matrix(1,0,0,1,64.9925,440.644)">
+                            <text x="-34.146px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">−0.5</text>
+                        </g>
+                    </g>
+                    <g id="ytick_15">
+                        <g id="mc801d3a5137" serif:id="mc801d3a513" transform="matrix(1,0,0,1,74.4925,374.185)">
+                            <path d="M0,0L-6,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1.25px;"/>
+                        </g>
+                        <g id="text_15" transform="matrix(1,0,0,1,64.9925,380.552)">
+                            <text x="-25.563px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:18.7px;fill:white;">0.0</text>
+                        </g>
+                    </g>
+                    <g id="mced022dc6e7" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,554.46)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e8" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,524.414)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e9" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,494.368)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e10" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,464.323)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e11" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,434.277)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e12" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,404.231)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e13" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,374.185)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="mced022dc6e14" serif:id="mced022dc6e" transform="matrix(1,0,0,1,74.4925,344.139)">
+                        <path d="M0,0L-4,0" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                    <g id="text_16" transform="matrix(-3.82857e-16,-1,1,-3.82857e-16,22.0506,438.626)">
+                        <text x="-95.27px" y="0px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:20.4px;fill:white;">Δ</text>
+                        <text x="-76.131px" y="0px" style="font-family:'Karla-Regular', 'Karla';font-size:20.4px;fill:white;">Response Time (s)</text>
+                    </g>
+                </g>
+                <g id="m54dcdd6450" transform="matrix(1,0,0,1,0,630.387)">
+                    <path d="M283.92,-97.328L283.745,-97.328L283.745,-99.287L283.745,-101.246L283.745,-103.205L283.745,-105.165L283.745,-107.124L283.745,-109.083L283.745,-111.043L283.745,-113.002L283.745,-114.961L283.745,-116.92L283.745,-118.88L283.745,-120.839L283.745,-122.798L283.745,-124.757L283.745,-126.717L283.745,-128.676L283.745,-130.635L283.745,-132.595L283.745,-134.554L283.745,-136.513L283.745,-138.472L283.745,-140.432L283.745,-142.391L283.745,-144.35L283.745,-146.309L283.745,-148.269L283.745,-150.228L283.745,-152.187L283.745,-154.147L283.745,-156.106L283.745,-158.065L283.745,-160.024L283.745,-161.984L283.745,-163.943L283.745,-165.902L283.745,-167.861L283.745,-169.821L283.745,-171.78L283.745,-173.739L283.745,-175.699L283.745,-177.658L283.745,-179.617L283.745,-181.576L283.745,-183.536L283.745,-185.495L283.745,-187.454L283.745,-189.413L283.745,-191.373L283.745,-193.332L283.745,-195.291L283.745,-197.251L283.745,-199.21L283.745,-201.169L283.745,-203.128L283.745,-205.088L283.745,-207.047L283.745,-209.006L283.745,-210.966L283.745,-212.925L283.745,-214.884L283.745,-216.843L283.745,-218.803L283.745,-220.762L283.745,-222.721L283.745,-224.68L283.745,-226.64L283.745,-228.599L283.745,-230.558L283.745,-232.518L283.745,-234.477L283.745,-236.436L283.745,-238.395L283.745,-240.355L283.745,-242.314L283.745,-244.273L283.745,-246.232L283.745,-248.192L283.745,-250.151L283.745,-252.11L283.745,-254.07L283.745,-256.029L283.745,-257.988L283.745,-259.947L283.745,-261.907L283.745,-263.866L283.745,-265.825L283.745,-267.784L283.745,-269.744L283.745,-271.703L283.745,-273.662L283.745,-275.622L283.745,-277.581L283.745,-279.54L283.745,-281.499L283.745,-283.459L283.745,-285.418L283.745,-287.377L283.745,-289.336L283.745,-291.296L283.908,-291.296L283.954,-289.336L284.008,-287.377L284.077,-285.418L284.167,-283.459L284.279,-281.499L284.404,-279.54L284.531,-277.581L284.652,-275.622L284.774,-273.662L284.913,-271.703L285.101,-269.744L285.368,-267.784L285.738,-265.825L286.217,-263.866L286.793,-261.907L287.445,-259.947L288.153,-257.988L288.905,-256.029L289.692,-254.07L290.509,-252.11L291.351,-250.151L292.222,-248.192L293.13,-246.232L294.085,-244.273L295.091,-242.314L296.143,-240.355L297.23,-238.395L298.339,-236.436L299.463,-234.477L300.6,-232.518L301.749,-230.558L302.91,-228.599L304.08,-226.64L305.252,-224.68L306.415,-222.721L307.557,-220.762L308.667,-218.803L309.736,-216.843L310.755,-214.884L311.718,-212.925L312.641,-210.966L313.566,-209.006L314.552,-207.047L315.615,-205.088L316.696,-203.128L317.656,-201.169L318.335,-199.21L318.618,-197.251L318.481,-195.291L317.989,-193.332L317.252,-191.373L316.366,-189.413L315.389,-187.454L314.342,-185.495L313.246,-183.536L312.134,-181.576L311.054,-179.617L310.041,-177.658L309.106,-175.699L308.22,-173.739L307.335,-171.78L306.403,-169.821L305.398,-167.861L304.325,-165.902L303.206,-163.943L302.06,-161.984L300.896,-160.024L299.713,-158.065L298.512,-156.106L297.295,-154.147L296.074,-152.187L294.861,-150.228L293.677,-148.269L292.552,-146.309L291.522,-144.35L290.611,-142.391L289.821,-140.432L289.126,-138.472L288.483,-136.513L287.864,-134.554L287.268,-132.595L286.722,-130.635L286.257,-128.676L285.888,-126.717L285.601,-124.757L285.37,-122.798L285.166,-120.839L284.977,-118.88L284.804,-116.92L284.655,-114.961L284.534,-113.002L284.437,-111.043L284.357,-109.083L284.283,-107.124L284.207,-105.165L284.13,-103.205L284.053,-101.246L283.983,-99.287L283.92,-97.328Z" style="fill:rgb(31,120,180);fill-opacity:0.8;fill-rule:nonzero;"/>
+                </g>
+                <g id="m359e8ca2c0" transform="matrix(1,0,0,1,0,630.387)">
+                    <path d="M562.782,-84.33L562.743,-84.33L562.743,-86.5L562.743,-88.67L562.743,-90.841L562.743,-93.011L562.743,-95.181L562.743,-97.352L562.743,-99.522L562.743,-101.692L562.743,-103.863L562.743,-106.033L562.743,-108.203L562.743,-110.373L562.743,-112.544L562.743,-114.714L562.743,-116.884L562.743,-119.055L562.743,-121.225L562.743,-123.395L562.743,-125.566L562.743,-127.736L562.743,-129.906L562.743,-132.077L562.743,-134.247L562.743,-136.417L562.743,-138.588L562.743,-140.758L562.743,-142.928L562.743,-145.099L562.743,-147.269L562.743,-149.439L562.743,-151.61L562.743,-153.78L562.743,-155.95L562.743,-158.121L562.743,-160.291L562.743,-162.461L562.743,-164.631L562.743,-166.802L562.743,-168.972L562.743,-171.142L562.743,-173.313L562.743,-175.483L562.743,-177.653L562.743,-179.824L562.743,-181.994L562.743,-184.164L562.743,-186.335L562.743,-188.505L562.743,-190.675L562.743,-192.846L562.743,-195.016L562.743,-197.186L562.743,-199.357L562.743,-201.527L562.743,-203.697L562.743,-205.868L562.743,-208.038L562.743,-210.208L562.743,-212.379L562.743,-214.549L562.743,-216.719L562.743,-218.889L562.743,-221.06L562.743,-223.23L562.743,-225.4L562.743,-227.571L562.743,-229.741L562.743,-231.911L562.743,-234.082L562.743,-236.252L562.743,-238.422L562.743,-240.593L562.743,-242.763L562.743,-244.933L562.743,-247.104L562.743,-249.274L562.743,-251.444L562.743,-253.615L562.743,-255.785L562.743,-257.955L562.743,-260.126L562.743,-262.296L562.743,-264.466L562.743,-266.637L562.743,-268.807L562.743,-270.977L562.743,-273.147L562.743,-275.318L562.743,-277.488L562.743,-279.658L562.743,-281.829L562.743,-283.999L562.743,-286.169L562.743,-288.34L562.743,-290.51L562.743,-292.68L562.743,-294.851L562.743,-297.021L562.743,-299.191L562.837,-299.191L562.851,-297.021L562.852,-294.851L562.844,-292.68L562.834,-290.51L562.833,-288.34L562.85,-286.169L562.895,-283.999L562.971,-281.829L563.072,-279.658L563.184,-277.488L563.293,-275.318L563.399,-273.147L563.516,-270.977L563.663,-268.807L563.853,-266.637L564.09,-264.466L564.375,-262.296L564.713,-260.126L565.115,-257.955L565.597,-255.785L566.174,-253.615L566.844,-251.444L567.588,-249.274L568.38,-247.104L569.209,-244.933L570.089,-242.763L571.07,-240.593L572.213,-238.422L573.554,-236.252L575.065,-234.082L576.661,-231.911L578.255,-229.741L579.82,-227.571L581.396,-225.4L583.028,-223.23L584.706,-221.06L586.38,-218.889L588.006,-216.719L589.576,-214.549L591.106,-212.379L592.605,-210.208L594.063,-208.038L595.429,-205.868L596.584,-203.697L597.358,-201.527L597.618,-199.357L597.375,-197.186L596.799,-195.016L596.096,-192.846L595.365,-190.675L594.592,-188.505L593.748,-186.335L592.857,-184.164L591.952,-181.994L591.017,-179.824L589.972,-177.653L588.707,-175.483L587.147,-173.313L585.324,-171.142L583.379,-168.972L581.491,-166.802L579.782,-164.631L578.278,-162.461L576.953,-160.291L575.752,-158.121L574.61,-155.95L573.474,-153.78L572.337,-151.61L571.219,-149.439L570.133,-147.269L569.08,-145.099L568.066,-142.928L567.126,-140.758L566.304,-138.588L565.633,-136.417L565.118,-134.247L564.732,-132.077L564.433,-129.906L564.178,-127.736L563.945,-125.566L563.731,-123.395L563.546,-121.225L563.399,-119.055L563.291,-116.884L563.214,-114.714L563.161,-112.544L563.122,-110.373L563.083,-108.203L563.035,-106.033L562.979,-103.863L562.923,-101.692L562.874,-99.522L562.837,-97.352L562.809,-95.181L562.79,-93.011L562.78,-90.841L562.779,-88.67L562.781,-86.5L562.782,-84.33Z" style="fill:rgb(51,160,44);fill-opacity:0.8;fill-rule:nonzero;"/>
+                </g>
+                <g id="mb477211564" transform="matrix(1,0,0,1,283.743,434.277)">
+                    <path d="M0,4.5C1.193,4.5 2.338,4.026 3.182,3.182C4.026,2.338 4.5,1.193 4.5,0C4.5,-1.193 4.026,-2.338 3.182,-3.182C2.338,-4.026 1.193,-4.5 0,-4.5C-1.193,-4.5 -2.338,-4.026 -3.182,-3.182C-4.026,-2.338 -4.5,-1.193 -4.5,0C-4.5,1.193 -4.026,2.338 -3.182,3.182C-2.338,4.026 -1.193,4.5 0,4.5Z" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                </g>
+                <path id="line2d_41" d="M283.743,493.483L283.743,378.249" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:round;"/>
+                <g id="mb4772115641" serif:id="mb477211564" transform="matrix(1,0,0,1,562.743,434.277)">
+                    <path d="M0,4.5C1.193,4.5 2.338,4.026 3.182,3.182C4.026,2.338 4.5,1.193 4.5,0C4.5,-1.193 4.026,-2.338 3.182,-3.182C2.338,-4.026 1.193,-4.5 0,-4.5C-1.193,-4.5 -2.338,-4.026 -3.182,-3.182C-4.026,-2.338 -4.5,-1.193 -4.5,0C-4.5,1.193 -4.026,2.338 -3.182,3.182C-2.338,4.026 -1.193,4.5 0,4.5Z" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                </g>
+                <path id="line2d_43" d="M562.743,488.145L562.743,383.066" style="fill:none;stroke:white;stroke-width:2px;stroke-linecap:round;"/>
+                <path id="line2d_44" d="M74.493,374.185L632.493,374.185" style="fill:none;stroke:white;stroke-width:0.75px;stroke-linecap:round;"/>
+                <g id="m1c936e499c" transform="matrix(1,0,0,1,0,630.387)">
+                    <path d="M144.243,-73.587L283.743,-73.587" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                </g>
+                <g id="m059d8fb1d1" transform="matrix(1,0,0,1,0,630.387)">
+                    <path d="M423.243,-73.587L562.743,-73.587" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                </g>
+                <g id="mc01e8b2a7a" transform="matrix(1,0,0,1,0,630.387)">
+                    <path d="M74.493,-73.587L74.493,-309.934" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
